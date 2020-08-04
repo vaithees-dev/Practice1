@@ -1,0 +1,46 @@
+RADXML Deployments path:/scratch/FC_Sources/Flexcube_14.3/FCUBS_14.3/JSUIXML/FCUBS_14.3.0.0.0/ROFC/MAIN/RADXML
+JS deployment path:/scratch/FC_Sources/Flexcube_14.3/FCUBS_14.3/JSUIXML/Script/JS
+
+C:\Users\vaitnata\AppData\Local\Microsoft\Windows\INetCache\IE\RGZOX5BF\RAD.ZIP
+https://oracle.zoom.us/my/prashanth.p.pai
+STDCRBRN
+Email Flag---MSDCUSAD
+
+sanal---https://oracle.zoom.us/my/sanal.valappil
+
+CSDEVENT
+Onsite Credentials:
+Mk13922/Oracle@123
+
+sudo su - oracle
+ur password
+goto the directory 
+
+chmod -R 0777 SHAN001.log
+
+then vi SHAN001.log
+
+
+Customer no : MMB000368. Account nos. are not added to this customer, will inform once done.
+FX – SPOT : FXSI
+FX – FORWARD : FXFI
+FX – NDF : FNFI (NDF FORWARD)
+
+CHOFXSI193155502
+
+When Option Date is before the Value date then Settlement (Partial/Full) of Term  Option FX deal is not allowed.
+
+When Option Date 10-NOV-19 is before the Value date 11-NOV-18 then Settlement (Partial/Full) of Term  Option FX deal is not allowed.
+
+mkoonath
+shankar sir---MMBCOPS193150002
+MK1CPOP192493001
+MK1COTP192491001
+MK1COTP192490502
+Premium Pay Date Greater than Value Date--MMBCOTP193190502	
+MMBCOTP193190505
+MMB000121 
+
+after changea
+MMBCOTP193191503
+
